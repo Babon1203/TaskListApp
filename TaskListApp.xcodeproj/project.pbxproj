@@ -14,6 +14,7 @@
 		061F13212B0FBD97003F2287 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 061F13202B0FBD97003F2287 /* Assets.xcassets */; };
 		061F13242B0FBD97003F2287 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 061F13222B0FBD97003F2287 /* LaunchScreen.storyboard */; };
 		061F132E2B0FD045003F2287 /* FilledButtonFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061F132D2B0FD045003F2287 /* FilledButtonFactory.swift */; };
+		B3DEBFDB2B1395E500F03059 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DEBFDA2B1395E500F03059 /* StorageManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		061F13232B0FBD97003F2287 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		061F13252B0FBD97003F2287 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		061F132D2B0FD045003F2287 /* FilledButtonFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilledButtonFactory.swift; sourceTree = "<group>"; };
+		B3DEBFDA2B1395E500F03059 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				061F13142B0FBD94003F2287 /* AppDelegate.swift */,
+				B3DEBFDA2B1395E500F03059 /* StorageManager.swift */,
 				061F13162B0FBD94003F2287 /* SceneDelegate.swift */,
 				061F13182B0FBD94003F2287 /* TaskListViewController.swift */,
 				061F132D2B0FD045003F2287 /* FilledButtonFactory.swift */,
@@ -143,6 +146,7 @@
 				061F131F2B0FBD94003F2287 /* TaskListApp.xcdatamodeld in Sources */,
 				061F13192B0FBD94003F2287 /* TaskListViewController.swift in Sources */,
 				061F132E2B0FD045003F2287 /* FilledButtonFactory.swift in Sources */,
+				B3DEBFDB2B1395E500F03059 /* StorageManager.swift in Sources */,
 				061F13152B0FBD94003F2287 /* AppDelegate.swift in Sources */,
 				061F13172B0FBD94003F2287 /* SceneDelegate.swift in Sources */,
 			);
